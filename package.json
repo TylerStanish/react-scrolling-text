@@ -1,13 +1,20 @@
 {
-  "name": "react-random-scrolling-text",
+  "name": "react-scrolling-text",
   "version": "1.0.0",
-  "description": "",
+  "description": "A lightweight React component that randomly scrolls text",
   "main": "./build/bundle.js",
   "scripts": {
     "build": "webpack"
   },
-  "author": "",
+  "author": {
+	  "name": "Tyler Stanish",
+	  "email": "tystanish@gmail.com"
+  },
   "license": "ISC",
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/TylerStanish/react-scrolling-text.git"
+	},
   "peerDependencies": {
     "react": "^16.2.0"
   },
